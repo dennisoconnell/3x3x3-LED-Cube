@@ -1,12 +1,12 @@
 # 3x3x3-LED-Cube-Project
 
-Gif Demonstration of The 3x3x3 LED Cube
+## Gif Demonstration of The 3x3x3 LED Cube
 ![](3x3x3_LED_Cube_Demo.gif)
 
-Check Out The Full Video Here:
+## Check Out The Full Video Here:
 https://www.youtube.com/watch?v=daINgAoS91E
 
-Check Out The Code Too:
+## Check Out The Code Too:
 void setup()
 {
     for (int i=0;i<11;i++)
