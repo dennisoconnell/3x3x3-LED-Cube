@@ -7,6 +7,7 @@
 https://www.youtube.com/watch?v=daINgAoS91E
 
 ## Check Out The Code Too:
+```
 void setup()
 {
     for (int i=0;i<11;i++)
@@ -61,3 +62,4 @@ void loop()
         digitalWrite(A2,HIGH);    // layer3 is pulled up
 
 }
+```
