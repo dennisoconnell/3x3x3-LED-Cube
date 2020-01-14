@@ -6,7 +6,7 @@
 ## Check Out The Full Video Here:
 https://www.youtube.com/watch?v=daINgAoS91E
 
-## Check Out The Code Too:
+## The Code:
 ```
 void setup()
 {
